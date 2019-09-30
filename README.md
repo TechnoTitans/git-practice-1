@@ -5,7 +5,7 @@ This repository will be used for practice and instruction.
 ## Instructions
 
 1. Clone this repository
-2. Make a text file with your first and last name as the filename
+2. In the repository folder that you just cloned, make a text file with your first and last name as the filename
 3. For the contents, write some example text. Here are some suggestions:
   a) your schedule
   b) your clubs
